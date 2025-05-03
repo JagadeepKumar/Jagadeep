@@ -1,4 +1,4 @@
-<img src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376" width="1000" style="height: 350px;">
+<img src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376" width="1000" style="height: 400px;">
 
 <h1 align="center">Hi 👋, I'm Jagadeep Kumar</h1>
 <h3 align="center">A Passionate Java Full Stack developer from India</h3>
