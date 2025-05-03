@@ -3,7 +3,10 @@
 <h1 align="center">Hi 👋, I'm Jagadeep Kumar</h1>
 <h3 align="center">A Passionate Java Full Stack developer from India</h3>
 
-<img align="right" src="https://iconscout.com/lottie-animation/mobile-application-developer-6369150_5304706" width="160" style="height: 140px;">
+
+<video width="200" style="height: 180px;" >
+  <source src="https://iconscout.com/lottie-animation/mobile-application-developer-6369150_5304706" type="video/mp4">
+</video>
 
 - 🌱 I’m currently learning **React JS**
 
