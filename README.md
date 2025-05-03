@@ -4,8 +4,9 @@
 <h3 align="center">A Passionate Java Full Stack developer from India</h3>
 
 <a href="www.linkedin.com/in/jagadeep-kumar-k-aa54a3250" target="_blank">
-  <img src="![image](https://github.com/user-attachments/assets/3673d5c6-87d0-497a-b5a8-c96bc0785033)" 
-       alt="LinkedIn logo" 
+  <img src="![linkedin](https://github.com/user-attachments/assets/e7dfeecc-d67b-421e-867f-2633c79f0d1b)
+" 
+       alt="www.linkedin.com/in/jagadeep-kumar-k-aa54a3250" 
        style="width:40px;height:40px;">
 </a>
 
