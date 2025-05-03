@@ -3,8 +3,11 @@
 <h1 align="center">Hi 👋, I'm Jagadeep Kumar</h1>
 <h3 align="center">A Passionate Java Full Stack developer from India</h3>
 
-
-<img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/mobile-application-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-website-development-app-web-pack-design-animations-5304706.mp4" width="200" style="height: 180px;">
+<a href="www.linkedin.com/in/jagadeep-kumar-k-aa54a3250" target="_blank">
+  <img src="![image](https://github.com/user-attachments/assets/3673d5c6-87d0-497a-b5a8-c96bc0785033)" 
+       alt="LinkedIn logo" 
+       style="width:40px;height:40px;">
+</a>
 
 
 - 🌱 I’m currently learning **React JS**
