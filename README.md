@@ -4,9 +4,8 @@
 <h3 align="center">A Passionate Java Full Stack developer from India</h3>
 
 
-<video width="200" style="height: 180px;" >
-  <source src="https://iconscout.com/lottie-animation/mobile-application-developer-6369150_5304706" type="video/mp4">
-</video>
+<img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/mobile-application-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-website-development-app-web-pack-design-animations-5304706.mp4" width="200" style="height: 180px;">
+
 
 - 🌱 I’m currently learning **React JS**
 
