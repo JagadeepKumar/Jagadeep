@@ -20,9 +20,12 @@
 - ⚡ Fun fact **Gamer**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jagadeep-kumar-k-aa54a3250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jagadeep-kumar-k-aa54a3250" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/jagadeepkumar191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/jagadeepkumar191" height="30" width="40" /></a>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hoooolllloooooo!!;Welcome+to+my+profile!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">    
+  <br><br>
+  <a href="https://dev.to/nishanthi_s"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209"  /></a>
+  <a href="https://www.linkedin.com/in/nishanthi-s-371718273/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"  /></a>
+  <a href="mailto:nishanthi9000@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
