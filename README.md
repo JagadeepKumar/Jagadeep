@@ -11,7 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F70094&center=true&vCenter=true&width=600&height=60&lines=👋+Welcome+to+my+profile!;🌟+Glad+to+have+you+here!" />
 </p>
 
-
 - 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Java ,Springboot**
