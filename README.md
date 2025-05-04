@@ -36,7 +36,7 @@
 
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <br><br>
 
@@ -76,7 +76,7 @@
 
 <br>
 <hr>
-## 📊 GitHub Stats:
+<h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jagadeepkumar&show_icons=true&locale=en&layout=compact" alt="jagadeepkumar" />
 </p>
@@ -91,9 +91,14 @@
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=bubble&color=gradient&height=65&section=footer" style="width: 100%;" />
+
+<hr>
+ 
+<p align = "center">
+Made with ❤️ by  Jagadeep Kumar 
 </p>
+
+
 
 
 
